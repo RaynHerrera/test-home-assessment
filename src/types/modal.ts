@@ -1,0 +1,1 @@
+export type ModalType = "Add" | "Update" | "View";
